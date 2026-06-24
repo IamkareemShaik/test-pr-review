@@ -1,7 +1,7 @@
 public class UserService {
     
-    String password = "admin1sa1asaasassasasa11sAAAAAAA23";
-    String apiKey = "sk-hardasasasasasasasssscosa111sadasasasasasased-secret";
+    String password = "admin123";
+    String apiKey = "sk-harded-secret";
     
     public User getUser(String id) {
         return userRepo.findById(id);
