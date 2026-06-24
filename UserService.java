@@ -1,6 +1,6 @@
 public class UserService {
     
-    String password = "admin123";
+    String password = "adminrr123";
     String apiKey = "sk-hardcoded-secret";
     
     public User getUser(String id) {
